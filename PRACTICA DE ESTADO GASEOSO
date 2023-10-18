@@ -1,0 +1,162 @@
+BALOTARIO [ESTADO GASEOSO]
+
+1. El estado Gaseoso: generalidades
+
+1.1. Calcula el volumen ocupado por 2 moles de gas a una presión de 3 atmósferas y una
+temperatura de 300 K.
+Si, PV=nRT  entonces: 
+V=nRT/P=(2moles)((0.082atm.L)/(mol.°K))(300°K)/(3 atm)=16.4 L
+
+1.3. Si 1 mol de un gas ideal ocupa 22.4 litros a 0°C y 1 atmósfera, ¿cuál es la constante R en
+unidades de litros x atmósferas / (mol x Kelvin)?
+Datos: 
+n = 1 mol
+T= 0°C<> 273°K
+P=1atm
+R=X (atm. L)/(mol.°K)
+R=PV/nT=(1atm)(22.4L)/(1mol)(273°K) =(0.082atm.L)/(mol.°K)
+
+2. Características del estado gaseoso
+
+2.1. ¿Cuál es la principal característica que distingue a los gases de los líquidos y sólidos?
+La forma en la que sus partículas están dispuestas y como se mueven en un medio.
+En los gases las partículas están dispuestas y se mueven libremente. En los sólidos, las partículas están muy cercanas y tienen una estructura organizada y definida. En los líquidos tienen partículas cercanas, pero no están organizadas como los sólidos, permitiendo que tome la forma del contenedor.
+2.5. ¿Por qué los gases no tienen una forma o un volumen definidos?
+Los gases no tienen una forma o un volumen definidos debido a la naturaleza de las partículas que los componen y a la manera en que interactúan entre sí.
+
+3. Definición y problemas sobre presión
+
+3.1. Calcula la presión ejercida por 0.5 moles de gas en un recipiente de 10 litros a 25°C.
+Datos:
+n = 0.5 mol
+V= 10L
+T=25°C+273°C= 298°K...
+p=nRT/V=(0.5 moles)((0.082atm.L)/(mol.°K))(298°K)/((10 L) )=1.22 atm
+3.3. ¿Cuál es la presión en torr de un gas que ejerce una presión de 2,5 atmósferas?
+Datos:
+P= 2,5 atm 
+Convertir por método de factores de conversión: 
+2.5 atm x 760Torr/(1 atm)=1900 Torr
+
+4. Principios de la Teoría Cinético Molecular de los gases
+
+4.1. ¿Cuáles son los postulados clave de la teoría cinético-molecular de los gases?
+Los postulados son los siguientes: 
+-Los gases están compuestos por partículas pequeñas y separadas.
+-Las partículas están en movimiento constante y aleatorio.
+-Las colisiones son elásticas.
+-Las fuerzas de atracción entre partículas son despreciables.
+La energía cinética promedio está relacionada con la temperatura.
+-El volumen de las partículas es despreciable.
+-Las colisiones con las paredes del contenedor causan la presión.
+4.3. ¿Por qué la temperatura se relaciona con la velocidad promedio de las partículas en un gas ideal?
+A medida que la temperatura aumenta, las partículas de un gas ganan energía cinética y, por lo tanto, se mueven más rápido. Sin embargo, es importante tener en cuenta que esto se aplica a los gases ideales bajo condiciones ideales. En la realidad, otros factores como las interacciones entre partículas y la estructura molecular pueden influir en el comportamiento de un gas, especialmente a temperaturas extremadamente bajas o presiones muy altas.
+
+5. Ley General de los Gases Ideales
+
+5.1. Utiliza la ecuación de los gases ideales para calcular la presión de 2 moles de gas en un
+recipiente de 5 litros a 25°C.
+Datos:
+n = 2 mol
+V= 5 L 
+T= 25°C + 273°K= 298°K
+P=nRT/V=(2moles)(0.082 (atm.L)/(mol.°K))(298°K)/5L=9.77 atm
+
+5.2. Si tienes un gas que ocupa 10 litros a 3 atmósferas de presión y 273 K de temperatura,
+¿cuántos moles de gas tienes?
+Datos: 
+V=10L
+P=3atm
+T=273°K
+n=PV/RT=(3atm)(10L)/(0.082 (atm.L)/(mol.°K))(273°K) =0.003 moles
+
+6. Ley de Gay-Lussac
+
+6.1. Un recipiente de 2 litros contiene 1 mol de gas a 300 K. Si la presión se duplica manteniendo el volumen constante, ¿cuál será la nueva temperatura?
+Datos: 
+V=2L		V= 2L			
+n= 1 mol	
+T0=300°K	Tf=X
+P0=P		Pf=2P
+PV/T=cte. PoVo/To=PfVf/Tf entonces : Tf=(PfVfTo/PoVo)=(2P)(2L)(300°K)/(P)(2L) =600°K
+
+6.5. Si un gas ocupa un volumen de 1 litro a una temperatura de 300 K y se comprime hasta
+ocupar 0.5 litros, ¿cuál será la nueva temperatura si la presión se mantiene constante?
+Datos: 
+V=1L        V=0.5L
+T=300°K   T=X
+P=cte.
+PV/T=cte. PoVo/To=PfVf/Tf entonces : Tf=(PfVfTo/PoVo)=(P)(0.5L)(300°K)/(P)(1L) =150°K
+
+7. Ley de Charles
+
+7.1. Un globo se llena con 2 moles de gas a 25 °C. Si el volumen inicial es de 5 litros, ¿cuál será el volumen a 50 °C, manteniendo constante la presión?
+Datos: 
+n= 2 moles 
+T= 25°C + 273°C= 298 °K		Tf = 50°C+273°C= 323°K
+V0 = 5 L ￼		Vf =X
+P=cte.
+PV/T=cte. PoVo/To=PfVf/Tf entonces : Vf=(PoVoTf/ToPf)=(P)(5L)(323°K)/(P)(298°K) =5.42 L
+
+7.2. Si un gas ocupa un volumen de 2 litros a 0 °C, ¿Cuál será el volumen a 100 °C si la presión se mantiene constante?
+Datos: 
+V0= 2L				Vf = X		
+T0= 0°C <> 273°K 		Tf=100°C<>373°K
+P= cte.
+PV/T=cte. PoVo/To=PfVf/Tf entonces : Vf=(PoVoTf/ToPf)=(P)(2L)(273°K)/(P)(373°K) =1.46 L
+
+8. Ley de Boyle-Mariotte
+
+8.1. Un gas ocupa 2 litros a una presión de 3 atmósferas. Si se comprime a 1 litro, ¿cuál será la nueva presión a temperatura constante?
+Datos:
+V0 = 2 L	Vf = 1L
+P0=3 atm	Pf=X
+T=cte.
+
+PV/T=cte. PoVo/To=PfVf/Tf entonces : Pf=(PoVoTf/ToVf)=(3 atm)(2L)(Tcte)/(1L)(Tcte) =6 
+8.2. Si un gas a 2 atmósferas de presión ocupa un volumen de 10 litros, ¿cuál sería el nuevo
+volumen si la presión se duplica?
+Datos: 
+P0=2 atm	Pf=2P
+V0= 10L	Vf = X		
+
+PV/T=cte. PoVo/To=PfVf/Tf entonces : Vf=(PoVo/Pf)=(2atm)(10L)/((4atm) )=5.42 L
+
+9. Ley de las presiones parciales de Dalton
+
+9.1. Un recipiente contiene oxígeno (O2) y nitrógeno (N2) a una presión total de 3 atmósferas. Si la presión parcial de O2 es de 1 atmósfera, ¿cuál es la presión parcial de N2?
+Datos: 
+PO2+PN2 = 3 atm
+PO2 = 1atm
+PN2 = 2 atm
+9.2. En un recipiente, la presión parcial de hidrógeno (H2) es de 0.2 atmósferas, la del oxígeno (O2) es de 0.5 atmósferas y la del nitrógeno (N2) es de 0.3 atmósferas. ¿Cuál es la presión total en el recipiente?
+Datos: 			PT = PH2 + PO2 + PN2 = 0.2 + 0.5 + 0.3 = 0.1 atm
+PH2=0.2 atm     
+PO2 = 0.5 atm
+PN2 = 0.3 atm
+
+10. Gases Reales
+
+10.1. Si 2 moles de un gas real ocupan 3 litros a 300 K y 2 atmósferas de presión, ¿cuál es el factor de compresibilidad (Z) del gas?
+Datos:
+n = 2 moles		Vm = (3 L)/(2 moles)= 1.5 L/mol   Z=(PV_m)/RT = (2 atm*1.5 L/mol)/((0.082 (atm.L)/(mol.°K))(300°K))=0.12
+V= 3L 	- Esto indica que el gas se comporta significativamente diferente de un gas ideal bajo estas condiciones específicas.
+T= 300°K 
+P= 2atm
+10.2. Un gas real se encuentra en un recipiente de 5 litros a 350 K y 4 atmósferas de presión.
+Calcular el factor de compresibilidad (Z) del gas en estas condiciones.
+
+Datos: 		Z=(PV_m)/RT = (4 atm*5 L/mol)/((0.082 (atm.L)/(mol.°K))(350°K))= 0.70
+V= 5L 				
+T = 350°K 
+P= 4 atm
+n = 1 mol
+
+
+
+
+
+
+
+
+
